@@ -1,0 +1,26 @@
+# =========================
+# Build / Compiler Output
+# =========================
+
+Debug/
+Release/
+Binaries/
+*.o
+*.obj
+*.exe
+*.out
+
+# =========================
+# Eclipse / CDT
+# =========================
+
+.metadata/
+.settings/
+*.launch
+
+# =========================
+# OS Noise
+# =========================
+
+.DS_Store
+Thumbs.db
