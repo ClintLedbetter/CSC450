@@ -19,11 +19,9 @@ int main()
 
         combinedString = firstInput + secondInput;
 
-        std::cout << "Concatenated Result: " << combinedString
-                  << std::endl << std::endl;
-    }
+        std::cout << "Combined string: " << combinedString << std::endl;
+        std::cout << "-----------------------------" << std::endl;
+        }
 
-    return 0;
+        return 0;
 }
-
-
