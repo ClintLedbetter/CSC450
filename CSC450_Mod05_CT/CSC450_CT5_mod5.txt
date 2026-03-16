@@ -1,0 +1,6 @@
+Please be sure to append your data to this text file.
+
+If these first three lines are deleted, then your program is not functioning as expected.
+
+
+Sample text to test that it appends to CSC450_CT5_mod5.txt file without deleting the existing data. Then creates new file, CSC450-mod5-reverse.txt, which reverse writes all characters of appended file. 
