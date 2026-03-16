@@ -1,2 +1,2 @@
-# CSC450
+# CSC450 GitHub
 CTA 1-8
